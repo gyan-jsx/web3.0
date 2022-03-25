@@ -1,4 +1,4 @@
-import {  Welcome} from "./components";
+import {  Loader, Welcome} from "./components";
 import {MassComponent} from './maincomponents'
 
 
@@ -20,6 +20,8 @@ const App = () => (
   </Routes>
 
   </BrowserRouter>
+
+
 			
 
   </div>
